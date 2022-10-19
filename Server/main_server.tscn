@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://du1ogd5np0v11"]
+
+[node name="MainMenu" type="Node2D"]
+
+[node name="Label" type="Label" parent="."]
+offset_right = 92.0
+offset_bottom = 26.0
+size_flags_vertical = 1
+text = "Main server"
